@@ -22,7 +22,7 @@ due to time.
 * **Ask-anything aside, no LLM is used anywhere else** — every number in the app
 is a plain SQL view.
 
-## Key assumptions, each backed by a query
+## Key assumptions
 
 * **Fill rate reported in eaches**, not cases — Rakesh's explicit override of Divya's
 instruction, justified by modern trade penalizing on units short.
