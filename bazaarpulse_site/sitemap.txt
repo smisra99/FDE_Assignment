@@ -1,0 +1,7 @@
+/index.html
+/about.html
+/methodology.html
+/city/mumbai/page/1.html
+/city/bengaluru/index.html
+/city/delhi/page/1.html
+/city/chennai/index.html

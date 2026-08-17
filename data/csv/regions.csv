@@ -1,0 +1,6 @@
+region_id,region_code,region_name,regional_manager,hq_city,active_from,status
+1,WST,West,D Raghavan,Mumbai,2019-04-01,ACTIVE
+2,STH,South,S Iyer,Bengaluru,2019-04-01,ACTIVE
+3,NTH,North,A Khurana,Delhi,2019-04-01,ACTIVE
+4,EST,East,P Mahato,Kolkata,2019-04-01,ACTIVE
+5,CEN,Central,R Deshpande,Nagpur,2019-04-01,ACTIVE

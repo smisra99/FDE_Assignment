@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /internal/
+Disallow: /admin/
+Allow: /
+Crawl-delay: 1
+Sitemap: /sitemap.txt

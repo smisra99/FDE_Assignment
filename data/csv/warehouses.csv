@@ -1,0 +1,9 @@
+warehouse_id,warehouse_code,warehouse_name,city,region_id,address_line,pincode,capacity_pallets,chilled_capacity_pallets,dock_count,opened_date,manager_name,shift_pattern,temp_monitoring,wms_version,status
+1,WH01,Bhiwandi DC,Mumbai,1,"Plot 155, Industrial Area",274123,3488,369,17,2022-04-01,V Nair,SINGLE,MANUAL,4.2,ACTIVE
+2,WH02,Chakan DC,Pune,1,"Plot 108, Industrial Area",442705,2711,649,12,2020-09-01,H Gupta,DOUBLE,MANUAL,3.9,ACTIVE
+3,WH03,Hoskote DC,Bengaluru,2,"Plot 133, Industrial Area",491005,3108,181,9,2023-02-01,V Nair,DOUBLE,MANUAL,4.2,ACTIVE
+4,WH04,Sriperumbudur DC,Chennai,2,"Plot 262, Industrial Area",150225,3207,170,5,2022-04-01,J Fernandes,DOUBLE,MANUAL,4.2,ACTIVE
+5,WH05,Bhiwadi DC,Delhi,3,"Plot 132, Industrial Area",202119,3680,888,12,2018-06-01,H Gupta,SINGLE,IOT,3.9,ACTIVE
+6,WH06,Dankuni DC,Kolkata,4,"Plot 83, Industrial Area",317770,2070,300,4,2023-01-01,M Ali,DOUBLE,IOT,4.2,ACTIVE
+7,WH07,Hyderabad DC,Hyderabad,2,"Plot 10, Industrial Area",566636,3656,828,9,2018-12-01,J Fernandes,DOUBLE,IOT,4.2,ACTIVE
+8,WH08,Butibori DC,Nagpur,5,"Plot 158, Industrial Area",292850,3838,449,12,2023-12-01,M Ali,DOUBLE,MANUAL,4.2,ACTIVE
